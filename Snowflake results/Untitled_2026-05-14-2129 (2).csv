@@ -1,0 +1,983 @@
+﻿CONFERENCE,TEAM,GAMES_PLAYED,WINS,LOSSES,WIN_PCT,HOME_RECORD,ROAD_RECORD
+East,Atlanta,2,2,0,100.0,2-0,0-0
+East,Milwaukee,4,4,0,100.0,3-0,1-0
+East,Milwaukee,8,8,0,100.0,6-0,2-0
+East,Washington,1,1,0,100.0,0-0,1-0
+East,Milwaukee,5,5,0,100.0,4-0,1-0
+East,Boston,3,3,0,100.0,1-0,2-0
+East,Milwaukee,2,2,0,100.0,1-0,1-0
+East,Chicago,1,1,0,100.0,0-0,1-0
+East,Detroit,1,1,0,100.0,1-0,0-0
+East,Boston,1,1,0,100.0,1-0,0-0
+East,Milwaukee,1,1,0,100.0,0-0,1-0
+East,Washington,2,2,0,100.0,1-0,1-0
+East,Atlanta,1,1,0,100.0,1-0,0-0
+East,Toronto,1,1,0,100.0,1-0,0-0
+East,Milwaukee,7,7,0,100.0,6-0,1-0
+East,Charlotte,1,1,0,100.0,0-0,1-0
+East,Boston,2,2,0,100.0,1-0,1-0
+East,Milwaukee,6,6,0,100.0,5-0,1-0
+East,Milwaukee,3,3,0,100.0,2-0,1-0
+East,Milwaukee,9,9,0,100.0,7-0,2-0
+East,Milwaukee,11,10,1,90.9,7-0,3-1
+East,Milwaukee,10,9,1,90.0,7-0,2-1
+East,Cleveland,9,8,1,88.9,4-0,4-1
+East,Cleveland,8,7,1,87.5,4-0,3-1
+East,Cleveland,7,6,1,85.7,4-0,2-1
+East,Cleveland,6,5,1,83.3,3-0,2-1
+East,Milwaukee,12,10,2,83.3,7-0,3-2
+East,Boston,22,18,4,81.8,11-1,7-3
+East,Boston,16,13,3,81.3,6-1,7-2
+East,Boston,21,17,4,81.0,10-1,7-3
+East,Boston,26,21,5,80.8,11-2,10-3
+East,Cleveland,5,4,1,80.0,2-0,2-1
+East,Cleveland,10,8,2,80.0,4-0,4-2
+East,Boston,20,16,4,80.0,9-1,7-3
+East,Boston,25,20,5,80.0,11-2,9-3
+East,Boston,15,12,3,80.0,6-1,6-2
+East,Atlanta,5,4,1,80.0,2-1,2-0
+East,Boston,24,19,5,79.2,11-2,8-3
+East,Boston,19,15,4,78.9,8-1,7-3
+East,Milwaukee,14,11,3,78.6,8-1,3-2
+East,Boston,14,11,3,78.6,6-1,5-2
+East,Boston,23,18,5,78.3,11-2,7-3
+East,Boston,18,14,4,77.8,7-1,7-3
+East,Boston,27,21,6,77.8,11-2,10-4
+East,Milwaukee,13,10,3,76.9,7-1,3-2
+East,Boston,13,10,3,76.9,5-1,5-2
+East,Boston,17,13,4,76.5,6-1,7-3
+East,Milwaukee,25,19,6,76.0,12-3,7-3
+East,Boston,29,22,7,75.9,11-2,11-5
+East,Washington,4,3,1,75.0,2-0,1-1
+East,Cleveland,4,3,1,75.0,2-0,1-1
+East,Milwaukee,24,18,6,75.0,12-3,6-3
+East,Milwaukee,20,15,5,75.0,11-2,4-3
+East,Boston,4,3,1,75.0,1-0,2-1
+East,Milwaukee,16,12,4,75.0,9-1,3-3
+East,Boston,12,9,3,75.0,5-1,4-2
+East,Atlanta,4,3,1,75.0,2-1,1-0
+East,Boston,28,21,7,75.0,11-2,10-5
+East,New York,4,3,1,75.0,3-0,0-1
+East,Milwaukee,27,20,7,74.1,13-3,7-4
+East,Milwaukee,23,17,6,73.9,11-3,6-3
+East,Milwaukee,19,14,5,73.7,11-2,3-3
+East,Milwaukee,30,22,8,73.3,14-3,8-5
+East,Boston,30,22,8,73.3,11-3,11-5
+East,Milwaukee,15,11,4,73.3,8-1,3-3
+East,Milwaukee,26,19,7,73.1,12-3,7-4
+East,Milwaukee,22,16,6,72.7,11-3,5-3
+East,Boston,11,8,3,72.7,4-1,4-2
+East,Cleveland,11,8,3,72.7,4-0,4-3
+East,Milwaukee,29,21,8,72.4,14-3,7-5
+East,Milwaukee,18,13,5,72.2,10-2,3-3
+East,Milwaukee,21,15,6,71.4,11-3,4-3
+East,Milwaukee,28,20,8,71.4,13-3,7-5
+East,Milwaukee,31,22,9,71.0,14-3,8-6
+East,Boston,31,22,9,71.0,11-4,11-5
+East,Milwaukee,17,12,5,70.6,9-2,3-3
+East,Boston,10,7,3,70.0,3-1,4-2
+East,Atlanta,10,7,3,70.0,4-1,3-2
+East,Boston,32,22,10,68.8,11-5,11-5
+East,Washington,3,2,1,66.7,1-0,1-1
+East,Cleveland,12,8,4,66.7,4-0,4-4
+East,Atlanta,3,2,1,66.7,2-1,0-0
+East,Boston,9,6,3,66.7,3-1,3-2
+East,Atlanta,12,8,4,66.7,5-2,3-2
+East,Cleveland,18,12,6,66.7,8-1,4-5
+East,Atlanta,6,4,2,66.7,2-1,2-1
+East,Charlotte,3,2,1,66.7,0-1,2-0
+East,New York,3,2,1,66.7,2-0,0-1
+East,Atlanta,9,6,3,66.7,3-1,3-2
+East,Boston,6,4,2,66.7,2-1,2-1
+East,Cleveland,3,2,1,66.7,1-0,1-1
+East,Cleveland,33,22,11,66.7,16-2,6-9
+East,Cleveland,32,21,11,65.6,15-2,6-9
+East,Cleveland,23,15,8,65.2,10-1,5-7
+East,Cleveland,20,13,7,65.0,8-1,5-6
+East,Cleveland,17,11,6,64.7,7-1,4-5
+East,Cleveland,31,20,11,64.5,14-2,6-9
+East,Atlanta,14,9,5,64.3,5-2,4-3
+East,Cleveland,25,16,9,64.0,11-1,5-8
+East,Cleveland,22,14,8,63.6,9-1,5-7
+East,Atlanta,11,7,4,63.6,4-2,3-2
+East,Cleveland,30,19,11,63.3,13-2,6-9
+East,Cleveland,19,12,7,63.2,8-1,4-6
+East,Cleveland,27,17,10,63.0,12-2,5-8
+East,Brooklyn,32,20,12,62.5,11-5,9-7
+East,Boston,8,5,3,62.5,3-1,2-2
+East,Atlanta,8,5,3,62.5,2-1,3-2
+East,Cleveland,16,10,6,62.5,6-1,4-5
+East,Cleveland,24,15,9,62.5,10-1,5-8
+East,Indiana,16,10,6,62.5,6-3,4-3
+East,Atlanta,16,10,6,62.5,6-3,4-3
+East,Toronto,8,5,3,62.5,3-1,2-2
+East,Cleveland,29,18,11,62.1,12-2,6-9
+East,Cleveland,21,13,8,61.9,8-1,5-7
+East,Cleveland,13,8,5,61.5,4-1,4-4
+East,Atlanta,13,8,5,61.5,5-2,3-3
+East,Cleveland,26,16,10,61.5,11-2,5-8
+East,Brooklyn,31,19,12,61.3,10-5,9-7
+East,Indiana,18,11,7,61.1,7-4,4-3
+East,Atlanta,18,11,7,61.1,7-3,4-4
+East,Cleveland,28,17,11,60.7,12-2,5-9
+East,Indiana,20,12,8,60.0,7-4,5-4
+East,Toronto,5,3,2,60.0,2-0,1-2
+East,New York,5,3,2,60.0,3-0,0-2
+East,Chicago,5,3,2,60.0,2-1,1-1
+East,Cleveland,15,9,6,60.0,5-1,4-5
+East,Atlanta,15,9,6,60.0,5-3,4-3
+East,Philadelphia,30,18,12,60.0,13-5,5-7
+East,Boston,5,3,2,60.0,1-1,2-1
+East,Brooklyn,30,18,12,60.0,10-5,8-7
+East,Indiana,15,9,6,60.0,5-3,4-3
+East,Washington,5,3,2,60.0,2-1,1-1
+East,Toronto,10,6,4,60.0,4-1,2-3
+East,Atlanta,17,10,7,58.8,6-3,4-4
+East,Indiana,17,10,7,58.8,6-4,4-3
+East,Washington,17,10,7,58.8,7-4,3-3
+East,Brooklyn,29,17,12,58.6,10-5,7-7
+East,Philadelphia,29,17,12,58.6,12-5,5-7
+East,Toronto,12,7,5,58.3,5-1,2-4
+East,New York,31,18,13,58.1,8-7,10-6
+East,Indiana,19,11,8,57.9,7-4,4-4
+East,Atlanta,19,11,8,57.9,7-3,4-5
+East,Indiana,14,8,6,57.1,4-3,4-3
+East,Atlanta,7,4,3,57.1,2-1,2-2
+East,Toronto,7,4,3,57.1,3-1,1-2
+East,Washington,14,8,6,57.1,5-3,3-3
+East,Cleveland,14,8,6,57.1,4-1,4-5
+East,Indiana,21,12,9,57.1,7-4,5-5
+East,Philadelphia,21,12,9,57.1,7-5,5-4
+East,Philadelphia,28,16,12,57.1,11-5,5-7
+East,Brooklyn,28,16,12,57.1,10-5,6-7
+East,Boston,7,4,3,57.1,2-1,2-2
+East,New York,30,17,13,56.7,7-7,10-6
+East,Atlanta,23,13,10,56.5,8-4,5-6
+East,Washington,16,9,7,56.3,6-4,3-3
+East,New York,32,18,14,56.3,8-8,10-6
+East,Toronto,16,9,7,56.3,6-1,3-6
+East,Philadelphia,27,15,12,55.6,10-5,5-7
+East,Chicago,9,5,4,55.6,3-2,2-2
+East,Brooklyn,27,15,12,55.6,10-5,5-7
+East,Washington,18,10,8,55.6,7-4,3-4
+East,Toronto,9,5,4,55.6,3-1,2-3
+East,New York,29,16,13,55.2,7-7,9-6
+East,Philadelphia,20,11,9,55.0,6-5,5-4
+East,Atlanta,20,11,9,55.0,7-4,4-5
+East,Toronto,20,11,9,55.0,8-2,3-7
+East,Toronto,11,6,5,54.5,4-1,2-4
+East,Atlanta,22,12,10,54.5,7-4,5-6
+East,Indiana,22,12,10,54.5,7-4,5-6
+East,Philadelphia,22,12,10,54.5,7-5,5-5
+East,Indiana,24,13,11,54.2,7-4,6-7
+East,Atlanta,24,13,11,54.2,8-5,5-6
+East,Brooklyn,24,13,11,54.2,8-4,5-7
+East,Brooklyn,26,14,12,53.8,9-5,5-7
+East,Philadelphia,26,14,12,53.8,9-5,5-7
+East,Indiana,26,14,12,53.8,8-4,6-8
+East,Indiana,13,7,6,53.8,4-3,3-3
+East,Washington,13,7,6,53.8,4-3,3-3
+East,Toronto,13,7,6,53.8,5-1,2-5
+East,New York,28,15,13,53.6,7-7,8-6
+East,Washington,15,8,7,53.3,5-4,3-3
+East,Toronto,15,8,7,53.3,5-1,3-6
+East,New York,15,8,7,53.3,4-3,4-4
+East,Philadelphia,15,8,7,53.3,5-4,3-3
+East,Toronto,17,9,8,52.9,6-1,3-7
+East,Philadelphia,17,9,8,52.9,6-5,3-3
+East,Philadelphia,19,10,9,52.6,6-5,4-4
+East,Toronto,19,10,9,52.6,7-2,3-7
+East,Washington,19,10,9,52.6,7-4,3-5
+East,Atlanta,21,11,10,52.4,7-4,4-6
+East,Washington,21,11,10,52.4,8-4,3-6
+East,Toronto,21,11,10,52.4,8-2,3-8
+East,Brooklyn,23,12,11,52.2,7-4,5-7
+East,Indiana,23,12,11,52.2,7-4,5-7
+East,Toronto,23,12,11,52.2,9-2,3-9
+East,Philadelphia,23,12,11,52.2,7-5,5-6
+East,Philadelphia,25,13,12,52.0,8-5,5-7
+East,Indiana,25,13,12,52.0,7-4,6-8
+East,Toronto,25,13,12,52.0,10-3,3-9
+East,Brooklyn,25,13,12,52.0,8-5,5-7
+East,Atlanta,25,13,12,52.0,8-5,5-7
+East,Atlanta,27,14,13,51.9,9-5,5-8
+East,Indiana,27,14,13,51.9,8-5,6-8
+East,New York,27,14,13,51.9,7-7,7-6
+East,Indiana,29,15,14,51.7,9-6,6-8
+East,Miami,31,16,15,51.6,9-6,7-9
+East,Atlanta,31,16,15,51.6,10-5,6-10
+East,Toronto,14,7,7,50.0,5-1,2-6
+East,Washington,22,11,11,50.0,8-4,3-7
+East,Washington,12,6,6,50.0,3-3,3-3
+East,New York,12,6,6,50.0,4-2,2-4
+East,Toronto,22,11,11,50.0,8-2,3-9
+East,Chicago,10,5,5,50.0,3-2,2-3
+East,Philadelphia,14,7,7,50.0,4-4,3-3
+East,Washington,6,3,3,50.0,2-1,1-2
+East,Detroit,2,1,1,50.0,1-0,0-1
+East,Charlotte,2,1,1,50.0,0-1,1-0
+East,Washington,20,10,10,50.0,7-4,3-6
+East,Chicago,2,1,1,50.0,0-0,1-1
+East,New York,18,9,9,50.0,4-3,5-6
+East,Toronto,2,1,1,50.0,1-0,0-1
+East,Chicago,4,2,2,50.0,1-1,1-1
+East,Toronto,4,2,2,50.0,1-0,1-2
+East,Brooklyn,22,11,11,50.0,6-4,5-7
+East,Philadelphia,16,8,8,50.0,5-5,3-3
+East,Charlotte,6,3,3,50.0,1-1,2-2
+East,Indiana,10,5,5,50.0,3-2,2-3
+East,Chicago,6,3,3,50.0,2-1,1-2
+East,Toronto,6,3,3,50.0,2-1,1-2
+East,New York,10,5,5,50.0,3-2,2-3
+East,Chicago,8,4,4,50.0,2-2,2-2
+East,New York,14,7,7,50.0,4-3,3-4
+East,Chicago,12,6,6,50.0,4-2,2-4
+East,Charlotte,4,2,2,50.0,0-1,2-1
+East,New York,16,8,8,50.0,4-3,4-5
+East,New York,6,3,3,50.0,3-0,0-3
+East,Atlanta,26,13,13,50.0,8-5,5-8
+East,Toronto,18,9,9,50.0,6-2,3-7
+East,Philadelphia,24,12,12,50.0,7-5,5-7
+East,Brooklyn,2,1,1,50.0,1-1,0-0
+East,Indiana,28,14,14,50.0,8-6,6-8
+East,Washington,8,4,4,50.0,2-2,2-2
+East,New York,8,4,4,50.0,3-1,1-3
+East,New York,2,1,1,50.0,1-0,0-1
+East,Atlanta,28,14,14,50.0,9-5,5-9
+East,Toronto,24,12,12,50.0,9-3,3-9
+East,Indiana,12,6,6,50.0,4-3,2-3
+East,Philadelphia,18,9,9,50.0,6-5,3-4
+East,Miami,30,15,15,50.0,9-6,6-9
+East,Atlanta,32,16,16,50.0,10-6,6-10
+East,Miami,32,16,16,50.0,9-7,7-9
+East,Miami,14,7,7,50.0,6-4,1-3
+East,Philadelphia,8,4,4,50.0,1-2,3-2
+East,Cleveland,2,1,1,50.0,0-0,1-1
+East,Indiana,32,16,16,50.0,9-7,7-9
+East,Toronto,26,13,13,50.0,10-3,3-10
+East,New York,26,13,13,50.0,6-7,7-6
+East,Indiana,30,15,15,50.0,9-6,6-9
+East,Atlanta,30,15,15,50.0,9-5,6-10
+East,Indiana,31,15,16,48.4,9-7,6-9
+East,Miami,29,14,15,48.3,9-6,5-9
+East,Atlanta,29,14,15,48.3,9-5,5-10
+East,Toronto,27,13,14,48.1,10-3,3-11
+East,New York,25,12,13,48.0,6-7,6-6
+East,Washington,23,11,12,47.8,8-4,3-8
+East,Miami,23,11,12,47.8,8-4,3-8
+East,Miami,21,10,11,47.6,8-4,2-7
+East,New York,21,10,11,47.6,4-5,6-6
+East,Brooklyn,21,10,11,47.6,5-4,5-7
+East,New York,19,9,10,47.4,4-4,5-6
+East,Brooklyn,19,9,10,47.4,4-4,5-6
+East,New York,17,8,9,47.1,4-3,4-6
+East,Brooklyn,17,8,9,47.1,4-4,4-5
+East,Miami,15,7,8,46.7,6-4,1-4
+East,Miami,28,13,15,46.4,9-6,4-9
+East,Toronto,28,13,15,46.4,10-4,3-11
+East,Miami,26,12,14,46.2,9-5,3-9
+East,Miami,13,6,7,46.2,5-4,1-3
+East,Philadelphia,13,6,7,46.2,3-4,3-3
+East,Chicago,13,6,7,46.2,4-3,2-4
+East,Brooklyn,13,6,7,46.2,3-4,3-3
+East,New York,13,6,7,46.2,4-3,2-4
+East,Miami,24,11,13,45.8,8-4,3-9
+East,Washington,24,11,13,45.8,8-5,3-8
+East,New York,24,11,13,45.8,5-7,6-6
+East,New York,11,5,6,45.5,3-2,2-4
+East,Washington,11,5,6,45.5,2-3,3-3
+East,Indiana,11,5,6,45.5,3-3,2-3
+East,Philadelphia,11,5,6,45.5,2-4,3-2
+East,Miami,22,10,12,45.5,8-4,2-8
+East,Chicago,11,5,6,45.5,3-2,2-4
+East,New York,22,10,12,45.5,4-6,6-6
+East,Chicago,20,9,11,45.0,5-5,4-6
+East,Miami,20,9,11,45.0,8-4,1-7
+East,New York,20,9,11,45.0,4-5,5-6
+East,Brooklyn,20,9,11,45.0,4-4,5-7
+East,Toronto,29,13,16,44.8,10-5,3-11
+East,Miami,27,12,15,44.4,9-6,3-9
+East,Chicago,18,8,10,44.4,5-5,3-5
+East,Miami,9,4,5,44.4,3-3,1-2
+East,Washington,9,4,5,44.4,2-3,2-2
+East,Brooklyn,18,8,10,44.4,4-4,4-6
+East,New York,9,4,5,44.4,3-2,1-3
+East,Indiana,9,4,5,44.4,2-2,2-3
+East,Philadelphia,9,4,5,44.4,1-3,3-2
+East,Chicago,25,11,14,44.0,7-5,4-9
+East,Miami,25,11,14,44.0,8-5,3-9
+East,Washington,25,11,14,44.0,8-5,3-9
+East,Toronto,32,14,18,43.8,10-6,4-12
+East,Miami,16,7,9,43.8,6-4,1-5
+East,Brooklyn,16,7,9,43.8,3-4,4-5
+East,New York,23,10,13,43.5,4-7,6-6
+East,Toronto,30,13,17,43.3,10-6,3-11
+East,Charlotte,7,3,4,42.9,1-2,2-2
+East,Brooklyn,14,6,8,42.9,3-4,3-4
+East,Chicago,21,9,12,42.9,5-5,4-7
+East,Philadelphia,7,3,4,42.9,1-2,2-2
+East,Washington,7,3,4,42.9,2-2,1-2
+East,New York,7,3,4,42.9,3-1,0-3
+East,Chicago,14,6,8,42.9,4-4,2-4
+East,Chicago,7,3,4,42.9,2-2,1-2
+East,Indiana,7,3,4,42.9,1-2,2-2
+East,Chicago,26,11,15,42.3,7-5,4-10
+East,Washington,26,11,15,42.3,8-5,3-10
+East,Chicago,19,8,11,42.1,5-5,3-6
+East,Miami,19,8,11,42.1,7-4,1-7
+East,Chicago,31,13,18,41.9,7-7,6-11
+East,Toronto,31,13,18,41.9,10-6,3-12
+East,Miami,12,5,7,41.7,4-4,1-3
+East,Brooklyn,12,5,7,41.7,3-4,2-3
+East,Chicago,24,10,14,41.7,6-5,4-9
+East,Philadelphia,12,5,7,41.7,2-4,3-3
+East,Chicago,17,7,10,41.2,5-5,2-5
+East,Miami,17,7,10,41.2,6-4,1-6
+East,Chicago,22,9,13,40.9,5-5,4-8
+East,Chicago,27,11,16,40.7,7-6,4-10
+East,Washington,27,11,16,40.7,8-6,3-10
+East,Washington,10,4,6,40.0,2-3,2-3
+East,Brooklyn,15,6,9,40.0,3-4,3-5
+East,Brooklyn,10,4,6,40.0,2-4,2-2
+East,Chicago,15,6,9,40.0,4-4,2-5
+East,Miami,10,4,6,40.0,3-3,1-3
+East,Charlotte,5,2,3,40.0,0-1,2-2
+East,Chicago,30,12,18,40.0,7-7,5-11
+East,Miami,5,2,3,40.0,1-3,1-0
+East,Philadelphia,10,4,6,40.0,1-4,3-2
+East,Chicago,28,11,17,39.3,7-7,4-10
+East,Washington,28,11,17,39.3,8-7,3-10
+East,Chicago,23,9,14,39.1,5-5,4-9
+East,Miami,18,7,11,38.9,6-4,1-7
+East,Chicago,29,11,18,37.9,7-7,4-11
+East,Washington,29,11,18,37.9,8-7,3-11
+East,Charlotte,8,3,5,37.5,1-2,2-3
+East,Indiana,8,3,5,37.5,1-2,2-3
+East,Washington,32,12,20,37.5,8-7,4-13
+East,Miami,8,3,5,37.5,2-3,1-2
+East,Chicago,16,6,10,37.5,4-5,2-5
+East,Washington,30,11,19,36.7,8-7,3-12
+East,Orlando,33,12,21,36.4,8-9,4-12
+East,Brooklyn,11,4,7,36.4,2-4,2-3
+East,Washington,33,12,21,36.4,8-7,4-14
+East,Miami,11,4,7,36.4,3-4,1-3
+East,Washington,31,11,20,35.5,8-7,3-13
+East,Orlando,31,11,20,35.5,8-9,3-11
+East,Orlando,32,11,21,34.4,8-9,3-12
+East,Indiana,6,2,4,33.3,1-2,1-2
+East,Brooklyn,3,1,2,33.3,1-1,0-1
+East,Philadelphia,6,2,4,33.3,1-2,1-2
+East,Miami,3,1,2,33.3,1-2,0-0
+East,Brooklyn,9,3,6,33.3,2-4,1-2
+East,Miami,6,2,4,33.3,1-3,1-1
+East,Toronto,3,1,2,33.3,1-0,0-2
+East,Charlotte,9,3,6,33.3,1-2,2-4
+East,Chicago,3,1,2,33.3,0-1,1-1
+East,Indiana,3,1,2,33.3,1-2,0-0
+East,Detroit,3,1,2,33.3,1-0,0-2
+East,Orlando,30,10,20,33.3,8-9,2-11
+East,Charlotte,22,7,15,31.8,4-6,3-9
+East,Orlando,16,5,11,31.3,4-5,1-6
+East,Orlando,29,9,20,31.0,8-9,1-11
+East,Orlando,13,4,9,30.8,4-3,0-6
+East,Charlotte,23,7,16,30.4,4-7,3-9
+East,Charlotte,10,3,7,30.0,1-3,2-4
+East,Charlotte,20,6,14,30.0,3-6,3-8
+East,Orlando,17,5,12,29.4,4-5,1-7
+East,Charlotte,24,7,17,29.2,4-8,3-9
+East,Charlotte,21,6,15,28.6,3-6,3-9
+East,Orlando,28,8,20,28.6,7-9,1-11
+East,Brooklyn,7,2,5,28.6,2-3,0-2
+East,Detroit,7,2,5,28.6,2-2,0-3
+East,Orlando,14,4,10,28.6,4-4,0-6
+East,Miami,7,2,5,28.6,1-3,1-2
+East,Charlotte,25,7,18,28.0,4-8,3-10
+East,Orlando,18,5,13,27.8,4-5,1-8
+East,Charlotte,11,3,8,27.3,1-4,2-4
+East,Detroit,11,3,8,27.3,3-3,0-5
+East,Detroit,26,7,19,26.9,4-8,3-11
+East,Charlotte,26,7,19,26.9,4-9,3-10
+East,Charlotte,15,4,11,26.7,1-5,3-6
+East,Orlando,15,4,11,26.7,4-5,0-6
+East,Detroit,30,8,22,26.7,4-9,4-13
+East,Charlotte,19,5,14,26.3,2-6,3-8
+East,Orlando,19,5,14,26.3,4-6,1-8
+East,Detroit,27,7,20,25.9,4-8,3-12
+East,Charlotte,27,7,20,25.9,4-9,3-11
+East,Orlando,27,7,20,25.9,6-9,1-11
+East,Detroit,31,8,23,25.8,4-10,4-13
+East,Charlotte,31,8,23,25.8,4-11,4-12
+East,Detroit,8,2,6,25.0,2-2,0-4
+East,Charlotte,28,7,21,25.0,4-10,3-11
+East,Philadelphia,4,1,3,25.0,1-2,0-1
+East,Charlotte,16,4,12,25.0,1-6,3-6
+East,Charlotte,32,8,24,25.0,4-11,4-13
+East,Orlando,12,3,9,25.0,3-3,0-6
+East,Brooklyn,8,2,6,25.0,2-4,0-2
+East,Detroit,12,3,9,25.0,3-3,0-6
+East,Brooklyn,4,1,3,25.0,1-1,0-2
+East,Charlotte,12,3,9,25.0,1-5,2-4
+East,Detroit,4,1,3,25.0,1-0,0-3
+East,Detroit,24,6,18,25.0,4-7,2-11
+East,Orlando,20,5,15,25.0,4-7,1-8
+East,Miami,4,1,3,25.0,1-3,0-0
+East,Indiana,4,1,3,25.0,1-2,0-1
+East,Detroit,20,5,15,25.0,3-5,2-10
+East,Detroit,28,7,21,25.0,4-8,3-13
+East,Detroit,32,8,24,25.0,4-11,4-13
+East,Detroit,33,8,25,24.2,4-12,4-13
+East,Detroit,29,7,22,24.1,4-9,3-13
+East,Charlotte,29,7,22,24.1,4-11,3-11
+East,Detroit,25,6,19,24.0,4-8,2-11
+East,Detroit,21,5,16,23.8,3-5,2-11
+East,Orlando,21,5,16,23.8,4-7,1-9
+East,Detroit,34,8,26,23.5,4-12,4-14
+East,Charlotte,17,4,13,23.5,1-6,3-7
+East,Charlotte,30,7,23,23.3,4-11,3-12
+East,Charlotte,13,3,10,23.1,1-5,2-5
+East,Detroit,13,3,10,23.1,3-3,0-7
+East,Orlando,26,6,20,23.1,5-9,1-11
+East,Orlando,22,5,17,22.7,4-8,1-9
+East,Detroit,22,5,17,22.7,3-6,2-11
+East,Orlando,9,2,7,22.2,2-1,0-6
+East,Charlotte,18,4,14,22.2,1-6,3-8
+East,Detroit,9,2,7,22.2,2-2,0-5
+East,Orlando,23,5,18,21.7,4-8,1-10
+East,Detroit,23,5,18,21.7,3-7,2-11
+East,Detroit,14,3,11,21.4,3-4,0-7
+East,Charlotte,14,3,11,21.4,1-5,2-6
+East,Detroit,19,4,15,21.1,3-5,1-10
+East,Orlando,24,5,19,20.8,4-8,1-11
+East,Philadelphia,5,1,4,20.0,1-2,0-2
+East,Detroit,15,3,12,20.0,3-5,0-7
+East,Detroit,5,1,4,20.0,1-1,0-3
+East,Detroit,10,2,8,20.0,2-3,0-5
+East,Brooklyn,5,1,4,20.0,1-2,0-2
+East,Orlando,10,2,8,20.0,2-2,0-6
+East,Indiana,5,1,4,20.0,1-2,0-2
+East,Orlando,25,5,20,20.0,4-9,1-11
+East,Detroit,16,3,13,18.8,3-5,0-8
+East,Orlando,11,2,9,18.2,2-3,0-6
+East,Detroit,17,3,14,17.6,3-5,0-9
+East,Detroit,18,3,15,16.7,3-5,0-10
+East,Orlando,6,1,5,16.7,1-1,0-4
+East,Brooklyn,6,1,5,16.7,1-3,0-2
+East,Detroit,6,1,5,16.7,1-2,0-3
+East,Orlando,7,1,6,14.3,1-1,0-5
+East,Orlando,8,1,7,12.5,1-1,0-6
+East,Milwaukee,0,0,0,0.0,0-0,0-0
+East,Indiana,2,0,2,0.0,0-2,0-0
+East,Miami,2,0,2,0.0,0-2,0-0
+East,Indiana,1,0,1,0.0,0-1,0-0
+East,New York,1,0,1,0.0,0-0,0-1
+East,Orlando,2,0,2,0.0,0-0,0-2
+East,Washington,0,0,0,0.0,0-0,0-0
+East,Philadelphia,1,0,1,0.0,0-0,0-1
+East,Orlando,0,0,0,0.0,0-0,0-0
+East,Miami,0,0,0,0.0,0-0,0-0
+East,Cleveland,0,0,0,0.0,0-0,0-0
+East,Indiana,0,0,0,0.0,0-0,0-0
+East,Brooklyn,0,0,0,0.0,0-0,0-0
+East,Orlando,5,0,5,0.0,0-1,0-4
+East,Cleveland,1,0,1,0.0,0-0,0-1
+East,Chicago,0,0,0,0.0,0-0,0-0
+East,Orlando,4,0,4,0.0,0-1,0-3
+East,Philadelphia,2,0,2,0.0,0-1,0-1
+East,Toronto,0,0,0,0.0,0-0,0-0
+East,Philadelphia,3,0,3,0.0,0-2,0-1
+East,Charlotte,0,0,0,0.0,0-0,0-0
+East,Orlando,1,0,1,0.0,0-0,0-1
+East,Atlanta,0,0,0,0.0,0-0,0-0
+East,Brooklyn,1,0,1,0.0,0-1,0-0
+East,Orlando,3,0,3,0.0,0-1,0-2
+East,New York,0,0,0,0.0,0-0,0-0
+East,Detroit,0,0,0,0.0,0-0,0-0
+East,Miami,1,0,1,0.0,0-1,0-0
+West,Portland,2,2,0,100.0,1-0,1-0
+West,Golden State,1,1,0,100.0,1-0,0-0
+West,Portland,3,3,0,100.0,1-0,2-0
+West,Utah,2,2,0,100.0,1-0,1-0
+West,LA Clippers,1,1,0,100.0,0-0,1-0
+West,Utah,3,3,0,100.0,1-0,2-0
+West,Portland,4,4,0,100.0,2-0,2-0
+West,Minnesota,1,1,0,100.0,1-0,0-0
+West,Memphis,1,1,0,100.0,1-0,0-0
+West,LA Clippers,2,2,0,100.0,0-0,2-0
+West,New Orleans,1,1,0,100.0,0-0,1-0
+West,Memphis,2,2,0,100.0,1-0,1-0
+West,Utah,1,1,0,100.0,1-0,0-0
+West,Phoenix,1,1,0,100.0,1-0,0-0
+West,New Orleans,2,2,0,100.0,0-0,2-0
+West,Portland,1,1,0,100.0,0-0,1-0
+West,Phoenix,7,6,1,85.7,5-0,1-1
+West,Portland,6,5,1,83.3,3-1,2-0
+West,Phoenix,6,5,1,83.3,4-0,1-1
+West,Memphis,5,4,1,80.0,2-0,2-1
+West,Utah,5,4,1,80.0,2-0,2-1
+West,Phoenix,5,4,1,80.0,3-0,1-1
+West,Portland,5,4,1,80.0,2-1,2-0
+West,Phoenix,9,7,2,77.8,6-1,1-1
+West,Utah,13,10,3,76.9,5-0,5-3
+West,Utah,4,3,1,75.0,1-0,2-1
+West,San Antonio,4,3,1,75.0,0-1,3-0
+West,Memphis,4,3,1,75.0,2-0,1-1
+West,Utah,8,6,2,75.0,4-0,2-2
+West,New Orleans,4,3,1,75.0,1-1,2-0
+West,Portland,8,6,2,75.0,3-2,3-0
+West,Utah,12,9,3,75.0,5-0,4-3
+West,Portland,12,9,3,75.0,3-2,6-1
+West,Phoenix,4,3,1,75.0,2-0,1-1
+West,Phoenix,8,6,2,75.0,5-1,1-1
+West,Portland,11,8,3,72.7,3-2,5-1
+West,Denver,11,8,3,72.7,4-0,4-3
+West,Utah,11,8,3,72.7,4-0,4-3
+West,Phoenix,11,8,3,72.7,6-1,2-2
+West,San Antonio,7,5,2,71.4,2-1,3-1
+West,Utah,14,10,4,71.4,5-0,5-4
+West,Utah,7,5,2,71.4,3-0,2-2
+West,Portland,7,5,2,71.4,3-2,2-0
+West,Portland,14,10,4,71.4,4-2,6-2
+West,Phoenix,21,15,6,71.4,12-1,3-5
+West,Memphis,10,7,3,70.0,4-0,3-3
+West,Denver,10,7,3,70.0,4-0,3-3
+West,Utah,10,7,3,70.0,4-0,3-3
+West,Portland,10,7,3,70.0,3-2,4-1
+West,Phoenix,20,14,6,70.0,11-1,3-5
+West,Phoenix,10,7,3,70.0,6-1,1-2
+West,Phoenix,23,16,7,69.6,12-2,4-5
+West,Denver,13,9,4,69.2,4-0,5-4
+West,Memphis,13,9,4,69.2,5-1,4-3
+West,Portland,13,9,4,69.2,3-2,6-2
+West,New Orleans,26,18,8,69.2,12-3,6-5
+West,Phoenix,19,13,6,68.4,11-1,2-5
+West,Phoenix,22,15,7,68.2,12-2,3-5
+West,New Orleans,25,17,8,68.0,11-3,6-5
+West,Memphis,28,19,9,67.9,13-2,6-7
+West,San Antonio,3,2,1,66.7,0-1,2-0
+West,New Orleans,27,18,9,66.7,12-3,6-6
+West,Phoenix,12,8,4,66.7,6-1,2-3
+West,Utah,18,12,6,66.7,6-1,6-5
+West,Portland,15,10,5,66.7,4-3,6-2
+West,Denver,3,2,1,66.7,1-0,1-1
+West,Golden State,3,2,1,66.7,2-1,0-0
+West,Memphis,27,18,9,66.7,12-2,6-7
+West,Utah,9,6,3,66.7,4-0,2-3
+West,Memphis,6,4,2,66.7,2-0,2-2
+West,Denver,12,8,4,66.7,4-0,4-4
+West,Denver,9,6,3,66.7,4-0,2-3
+West,Dallas,9,6,3,66.7,5-1,1-2
+West,New Orleans,3,2,1,66.7,0-1,2-0
+West,Utah,6,4,2,66.7,2-0,2-2
+West,Denver,6,4,2,66.7,3-0,1-2
+West,Minnesota,6,4,2,66.7,3-2,1-0
+West,Memphis,9,6,3,66.7,3-0,3-3
+West,New Orleans,6,4,2,66.7,1-1,3-1
+West,Phoenix,3,2,1,66.7,1-0,1-1
+West,LA Clippers,3,2,1,66.7,0-1,2-0
+West,Memphis,12,8,4,66.7,4-1,4-3
+West,Portland,9,6,3,66.7,3-2,3-1
+West,New Orleans,24,16,8,66.7,10-3,6-5
+West,Phoenix,18,12,6,66.7,10-1,2-5
+West,Utah,15,10,5,66.7,5-0,5-5
+West,Denver,21,14,7,66.7,6-2,8-5
+West,Minnesota,3,2,1,66.7,1-1,1-0
+West,San Antonio,6,4,2,66.7,1-1,3-1
+West,Phoenix,24,16,8,66.7,12-2,4-6
+West,Memphis,3,2,1,66.7,1-0,1-1
+West,Memphis,29,19,10,65.5,13-2,6-8
+West,Memphis,26,17,9,65.4,11-2,6-7
+West,New Orleans,23,15,8,65.2,9-3,6-5
+West,Denver,20,13,7,65.0,5-2,8-5
+West,Phoenix,17,11,6,64.7,9-1,2-5
+West,Utah,17,11,6,64.7,6-1,5-5
+West,New Orleans,28,18,10,64.3,12-3,6-7
+West,Denver,14,9,5,64.3,4-1,5-4
+West,Phoenix,14,9,5,64.3,7-1,2-4
+West,Memphis,14,9,5,64.3,5-1,4-4
+West,Phoenix,25,16,9,64.0,12-3,4-6
+West,Memphis,25,16,9,64.0,10-2,6-7
+West,Denver,22,14,8,63.6,6-2,8-6
+West,Memphis,11,7,4,63.6,4-1,3-3
+West,New Orleans,22,14,8,63.6,8-3,6-5
+West,Denver,30,19,11,63.3,10-3,9-8
+West,Memphis,30,19,11,63.3,13-2,6-9
+West,Denver,19,12,7,63.2,4-2,8-5
+West,Utah,19,12,7,63.2,6-1,6-6
+West,Denver,27,17,10,63.0,8-3,9-7
+West,Memphis,16,10,6,62.5,6-1,4-5
+West,Memphis,8,5,3,62.5,2-0,3-3
+West,Dallas,8,5,3,62.5,4-1,1-2
+West,San Antonio,8,5,3,62.5,2-2,3-1
+West,Denver,8,5,3,62.5,3-0,2-3
+West,Memphis,24,15,9,62.5,9-2,6-7
+West,Utah,16,10,6,62.5,5-1,5-5
+West,Phoenix,16,10,6,62.5,8-1,2-5
+West,Portland,16,10,6,62.5,4-4,6-2
+West,New Orleans,8,5,3,62.5,2-1,3-2
+West,Sacramento,16,10,6,62.5,6-3,4-3
+West,Denver,16,10,6,62.5,4-1,6-5
+West,New Orleans,29,18,11,62.1,12-3,6-8
+West,Denver,29,18,11,62.1,9-3,9-8
+West,New Orleans,21,13,8,61.9,8-3,5-5
+West,Dallas,13,8,5,61.5,7-1,1-4
+West,Denver,26,16,10,61.5,7-3,9-7
+West,Phoenix,13,8,5,61.5,6-1,2-4
+West,Phoenix,26,16,10,61.5,12-3,4-7
+West,New Orleans,31,19,12,61.3,13-4,6-8
+West,Phoenix,31,19,12,61.3,14-3,5-9
+West,New Orleans,18,11,7,61.1,6-3,5-4
+West,LA Clippers,18,11,7,61.1,6-4,5-3
+West,Denver,18,11,7,61.1,4-2,7-5
+West,Denver,23,14,9,60.9,6-2,8-7
+West,Memphis,23,14,9,60.9,8-2,6-7
+West,Denver,28,17,11,60.7,8-3,9-8
+West,Golden State,5,3,2,60.0,3-1,0-1
+West,New Orleans,15,9,6,60.0,5-2,4-4
+West,San Antonio,5,3,2,60.0,0-1,3-1
+West,Minnesota,5,3,2,60.0,2-2,1-0
+West,Phoenix,15,9,6,60.0,7-1,2-5
+West,Dallas,10,6,4,60.0,5-1,1-3
+West,Utah,20,12,8,60.0,6-2,6-6
+West,New Orleans,5,3,2,60.0,1-1,2-1
+West,Denver,5,3,2,60.0,2-0,1-2
+West,Memphis,20,12,8,60.0,7-2,5-6
+West,Phoenix,30,18,12,60.0,13-3,5-9
+West,New Orleans,20,12,8,60.0,7-3,5-5
+West,Denver,15,9,6,60.0,4-1,5-5
+West,Sacramento,15,9,6,60.0,6-3,3-3
+West,Memphis,15,9,6,60.0,5-1,4-5
+West,Dallas,15,9,6,60.0,8-2,1-4
+West,New Orleans,30,18,12,60.0,12-4,6-8
+West,Denver,25,15,10,60.0,6-3,9-7
+West,Phoenix,32,19,13,59.4,14-4,5-9
+West,Phoenix,27,16,11,59.3,12-3,4-8
+West,LA Clippers,22,13,9,59.1,7-5,6-4
+West,Memphis,22,13,9,59.1,8-2,5-7
+West,Sacramento,22,13,9,59.1,8-4,5-5
+West,Sacramento,17,10,7,58.8,6-3,4-4
+West,Denver,17,10,7,58.8,4-2,6-5
+West,Memphis,17,10,7,58.8,6-1,4-6
+West,New Orleans,17,10,7,58.8,6-3,4-4
+West,Portland,17,10,7,58.8,4-4,6-3
+West,LA Clippers,17,10,7,58.8,5-4,5-3
+West,Phoenix,29,17,12,58.6,12-3,5-9
+West,Sacramento,24,14,10,58.3,8-4,6-6
+West,Dallas,12,7,5,58.3,6-1,1-4
+West,LA Clippers,12,7,5,58.3,3-3,4-2
+West,Denver,24,14,10,58.3,6-3,8-7
+West,Memphis,19,11,8,57.9,7-2,4-6
+West,Portland,19,11,8,57.9,4-4,7-4
+West,New Orleans,19,11,8,57.9,6-3,5-5
+West,LA Clippers,19,11,8,57.9,6-4,5-4
+West,LA Clippers,33,19,14,57.6,11-7,8-7
+West,Sacramento,28,16,12,57.1,8-4,8-8
+West,Portland,28,16,12,57.1,7-6,9-6
+West,Dallas,14,8,6,57.1,7-2,1-4
+West,Utah,21,12,9,57.1,6-2,6-7
+West,Sacramento,14,8,6,57.1,5-3,3-3
+West,LA Clippers,21,12,9,57.1,7-5,5-4
+West,Oklahoma City,7,4,3,57.1,3-1,1-2
+West,Phoenix,28,16,12,57.1,12-3,4-9
+West,Sacramento,21,12,9,57.1,7-4,5-5
+West,Minnesota,7,4,3,57.1,3-2,1-1
+West,Memphis,21,12,9,57.1,7-2,5-7
+West,New Orleans,14,8,6,57.1,4-2,4-4
+West,Dallas,7,4,3,57.1,3-1,1-2
+West,New Orleans,7,4,3,57.1,1-1,3-2
+West,Memphis,7,4,3,57.1,2-0,2-3
+West,LA Clippers,14,8,6,57.1,3-4,5-2
+West,Denver,7,4,3,57.1,3-0,1-3
+West,LA Clippers,30,17,13,56.7,9-6,8-7
+West,Portland,30,17,13,56.7,7-6,10-7
+West,Sacramento,30,17,13,56.7,9-5,8-8
+West,Sacramento,23,13,10,56.5,8-4,5-6
+West,LA Clippers,23,13,10,56.5,7-5,6-5
+West,LA Clippers,16,9,7,56.3,4-4,5-3
+West,Dallas,16,9,7,56.3,8-3,1-4
+West,New Orleans,16,9,7,56.3,5-3,4-4
+West,LA Clippers,32,18,14,56.3,10-7,8-7
+West,Utah,25,14,11,56.0,8-3,6-8
+West,Sacramento,25,14,11,56.0,8-4,6-7
+West,LA Clippers,25,14,11,56.0,7-6,7-5
+West,Portland,27,15,12,55.6,7-6,8-6
+West,Portland,18,10,8,55.6,4-4,6-4
+West,Memphis,18,10,8,55.6,6-2,4-6
+West,Sacramento,18,10,8,55.6,6-3,4-5
+West,New Orleans,9,5,4,55.6,2-1,3-3
+West,Utah,27,15,12,55.6,9-4,6-8
+West,Sacramento,27,15,12,55.6,8-4,7-8
+West,LA Clippers,9,5,4,55.6,1-2,4-2
+West,San Antonio,9,5,4,55.6,2-3,3-1
+West,Minnesota,18,10,8,55.6,5-5,5-3
+West,Portland,29,16,13,55.2,7-6,9-7
+West,Sacramento,29,16,13,55.2,8-5,8-8
+West,LA Clippers,29,16,13,55.2,8-6,8-7
+West,LA Clippers,20,11,9,55.0,6-5,5-4
+West,Portland,20,11,9,55.0,4-4,7-5
+West,Sacramento,20,11,9,55.0,7-4,4-5
+West,Utah,31,17,14,54.8,11-5,6-9
+West,Portland,31,17,14,54.8,7-6,10-8
+West,LA Clippers,31,17,14,54.8,9-7,8-7
+West,Dallas,11,6,5,54.5,5-1,1-4
+West,Utah,22,12,10,54.5,6-2,6-8
+West,LA Clippers,11,6,5,54.5,2-3,4-2
+West,New Orleans,11,6,5,54.5,2-1,4-4
+West,Utah,35,19,16,54.3,12-5,7-11
+West,Dallas,24,13,11,54.2,10-3,3-8
+West,Utah,24,13,11,54.2,7-3,6-8
+West,LA Clippers,24,13,11,54.2,7-6,6-5
+West,Golden State,24,13,11,54.2,11-1,2-10
+West,Portland,24,13,11,54.2,5-5,8-6
+West,Utah,26,14,12,53.8,8-4,6-8
+West,New Orleans,13,7,6,53.8,3-2,4-4
+West,LA Clippers,13,7,6,53.8,3-4,4-2
+West,LA Clippers,26,14,12,53.8,7-6,7-6
+West,Sacramento,13,7,6,53.8,4-3,3-3
+West,Portland,26,14,12,53.8,6-6,8-6
+West,Sacramento,26,14,12,53.8,8-4,6-8
+West,Utah,28,15,13,53.6,9-5,6-8
+West,LA Clippers,28,15,13,53.6,7-6,8-7
+West,LA Clippers,15,8,7,53.3,3-4,5-3
+West,Utah,30,16,14,53.3,10-5,6-9
+West,Utah,32,17,15,53.1,11-5,6-10
+West,Portland,32,17,15,53.1,7-6,10-9
+West,Dallas,17,9,8,52.9,8-3,1-5
+West,Minnesota,17,9,8,52.9,5-5,4-3
+West,Utah,34,18,16,52.9,11-5,7-11
+West,Sacramento,19,10,9,52.6,6-4,4-5
+West,Minnesota,19,10,9,52.6,5-5,5-4
+West,Golden State,21,11,10,52.4,9-1,2-9
+West,Portland,21,11,10,52.4,4-5,7-5
+West,Golden State,23,12,11,52.2,10-1,2-10
+West,Utah,23,12,11,52.2,6-3,6-8
+West,Portland,23,12,11,52.2,4-5,8-6
+West,Dallas,23,12,11,52.2,10-3,2-8
+West,Minnesota,25,13,12,52.0,7-7,6-5
+West,Portland,25,13,12,52.0,5-6,8-6
+West,Golden State,25,13,12,52.0,11-2,2-10
+West,Dallas,25,13,12,52.0,10-4,3-8
+West,LA Clippers,27,14,13,51.9,7-6,7-7
+West,Golden State,27,14,13,51.9,12-2,2-11
+West,Dallas,27,14,13,51.9,11-4,3-9
+West,Dallas,29,15,14,51.7,12-5,3-9
+West,Utah,29,15,14,51.7,9-5,6-9
+West,Minnesota,31,16,15,51.6,9-7,7-8
+West,Utah,33,17,16,51.5,11-5,6-11
+West,Golden State,26,13,13,50.0,11-2,2-11
+West,Golden State,2,1,1,50.0,1-1,0-0
+West,San Antonio,10,5,5,50.0,2-3,3-2
+West,Minnesota,10,5,5,50.0,4-3,1-2
+West,LA Clippers,8,4,4,50.0,1-2,3-2
+West,Dallas,2,1,1,50.0,1-0,0-1
+West,Dallas,4,2,2,50.0,1-0,1-2
+West,LA Clippers,10,5,5,50.0,1-3,4-2
+West,Sacramento,12,6,6,50.0,3-3,3-3
+West,Portland,22,11,11,50.0,4-5,7-6
+West,Golden State,20,10,10,50.0,9-1,1-9
+West,Oklahoma City,6,3,3,50.0,2-1,1-2
+West,Dallas,18,9,9,50.0,8-3,1-6
+West,Minnesota,22,11,11,50.0,6-6,5-5
+West,Golden State,22,11,11,50.0,9-1,2-10
+West,Minnesota,4,2,2,50.0,1-2,1-0
+West,New Orleans,12,6,6,50.0,2-2,4-4
+West,New Orleans,10,5,5,50.0,2-1,3-4
+West,Golden State,6,3,3,50.0,3-1,0-2
+West,Minnesota,2,1,1,50.0,1-1,0-0
+West,Dallas,26,13,13,50.0,10-4,3-9
+West,Denver,4,2,2,50.0,1-0,1-2
+West,Dallas,32,16,16,50.0,12-5,4-11
+West,Dallas,28,14,14,50.0,11-5,3-9
+West,Golden State,28,14,14,50.0,12-2,2-12
+West,Oklahoma City,8,4,4,50.0,3-2,1-2
+West,San Antonio,2,1,1,50.0,0-1,1-0
+West,Phoenix,2,1,1,50.0,1-0,0-1
+West,Minnesota,20,10,10,50.0,5-6,5-4
+West,Minnesota,26,13,13,50.0,7-7,6-6
+West,Minnesota,24,12,12,50.0,7-7,5-5
+West,Dallas,20,10,10,50.0,9-3,1-7
+West,Minnesota,16,8,8,50.0,4-5,4-3
+West,Minnesota,30,15,15,50.0,8-7,7-8
+West,Dallas,30,15,15,50.0,12-5,3-10
+West,Golden State,4,2,2,50.0,2-1,0-1
+West,Minnesota,8,4,4,50.0,3-2,1-2
+West,Minnesota,32,16,16,50.0,9-8,7-8
+West,Dallas,6,3,3,50.0,2-1,1-2
+West,Denver,2,1,1,50.0,0-0,1-1
+West,Dallas,22,11,11,50.0,9-3,2-8
+West,LA Clippers,4,2,2,50.0,0-1,2-1
+West,Dallas,31,15,16,48.4,12-5,3-11
+West,Golden State,31,15,16,48.4,12-2,3-14
+West,Golden State,29,14,15,48.3,12-2,2-13
+West,Minnesota,29,14,15,48.3,7-7,7-8
+West,Minnesota,27,13,14,48.1,7-7,6-7
+West,Minnesota,23,11,12,47.8,6-7,5-5
+West,Minnesota,21,10,11,47.6,5-6,5-5
+West,Dallas,21,10,11,47.6,9-3,1-8
+West,Golden State,19,9,10,47.4,8-1,1-9
+West,Dallas,19,9,10,47.4,8-3,1-7
+West,Golden State,17,8,9,47.1,7-1,1-8
+West,Golden State,32,15,17,46.9,12-2,3-15
+West,Oklahoma City,15,7,8,46.7,4-3,3-5
+West,Golden State,30,14,16,46.7,12-2,2-14
+West,Minnesota,15,7,8,46.7,4-5,3-3
+West,Minnesota,28,13,15,46.4,7-7,6-8
+West,Oklahoma City,13,6,7,46.2,4-3,2-4
+West,San Antonio,13,6,7,46.2,3-5,3-2
+West,Oklahoma City,24,11,13,45.8,6-5,5-8
+West,Golden State,33,15,18,45.5,12-2,3-16
+West,Minnesota,11,5,6,45.5,4-4,1-2
+West,San Antonio,11,5,6,45.5,2-4,3-2
+West,L.A. Lakers,22,10,12,45.5,6-6,4-6
+West,Sacramento,11,5,6,45.5,2-3,3-3
+West,L.A. Lakers,29,13,16,44.8,8-7,5-9
+West,Golden State,18,8,10,44.4,7-1,1-9
+West,Oklahoma City,9,4,5,44.4,3-2,1-3
+West,Minnesota,9,4,5,44.4,3-3,1-2
+West,Oklahoma City,25,11,14,44.0,6-5,5-9
+West,Oklahoma City,32,14,18,43.8,9-7,5-11
+West,Golden State,16,7,9,43.8,7-1,0-8
+West,Oklahoma City,16,7,9,43.8,4-3,3-6
+West,L.A. Lakers,23,10,13,43.5,6-6,4-7
+West,Oklahoma City,23,10,13,43.5,6-5,4-8
+West,L.A. Lakers,30,13,17,43.3,8-7,5-10
+West,L.A. Lakers,28,12,16,42.9,7-7,5-9
+West,Minnesota,14,6,8,42.9,4-5,2-3
+West,Golden State,7,3,4,42.9,3-1,0-3
+West,Golden State,14,6,8,42.9,6-1,0-7
+West,LA Clippers,7,3,4,42.9,1-2,2-2
+West,San Antonio,14,6,8,42.9,3-5,3-3
+West,Oklahoma City,14,6,8,42.9,4-3,2-5
+West,L.A. Lakers,21,9,12,42.9,6-6,3-6
+West,Oklahoma City,26,11,15,42.3,6-5,5-10
+West,L.A. Lakers,26,11,15,42.3,6-6,5-9
+West,Oklahoma City,19,8,11,42.1,5-5,3-6
+West,Oklahoma City,31,13,18,41.9,8-7,5-11
+West,L.A. Lakers,31,13,18,41.9,8-7,5-11
+West,Oklahoma City,12,5,7,41.7,4-3,1-4
+West,L.A. Lakers,24,10,14,41.7,6-6,4-8
+West,Golden State,12,5,7,41.7,5-1,0-6
+West,San Antonio,12,5,7,41.7,2-5,3-2
+West,Minnesota,12,5,7,41.7,4-5,1-2
+West,Oklahoma City,17,7,10,41.2,4-4,3-6
+West,Oklahoma City,22,9,13,40.9,6-5,3-8
+West,L.A. Lakers,27,11,16,40.7,6-7,5-9
+West,Oklahoma City,27,11,16,40.7,6-5,5-11
+West,Golden State,15,6,9,40.0,6-1,0-8
+West,LA Clippers,5,2,3,40.0,0-1,2-2
+West,Sacramento,10,4,6,40.0,2-3,2-3
+West,Oklahoma City,5,2,3,40.0,2-1,0-2
+West,L.A. Lakers,20,8,12,40.0,6-6,2-6
+West,L.A. Lakers,25,10,15,40.0,6-6,4-9
+West,San Antonio,15,6,9,40.0,3-5,3-4
+West,Oklahoma City,20,8,12,40.0,5-5,3-7
+West,Dallas,5,2,3,40.0,1-1,1-2
+West,Oklahoma City,10,4,6,40.0,3-2,1-4
+West,Oklahoma City,30,12,18,40.0,7-7,5-11
+West,Oklahoma City,28,11,17,39.3,6-6,5-11
+West,Oklahoma City,18,7,11,38.9,4-5,3-6
+West,L.A. Lakers,18,7,11,38.9,5-5,2-6
+West,Golden State,13,5,8,38.5,5-1,0-7
+West,Minnesota,13,5,8,38.5,4-5,1-3
+West,Oklahoma City,21,8,13,38.1,5-5,3-8
+West,Oklahoma City,29,11,18,37.9,6-7,5-11
+West,San Antonio,16,6,10,37.5,3-5,3-5
+West,Golden State,8,3,5,37.5,3-1,0-4
+West,Sacramento,8,3,5,37.5,1-3,2-2
+West,L.A. Lakers,19,7,12,36.8,5-6,2-6
+West,Oklahoma City,11,4,7,36.4,3-3,1-4
+West,Golden State,11,4,7,36.4,4-1,0-6
+West,San Antonio,17,6,11,35.3,3-5,3-6
+West,L.A. Lakers,17,6,11,35.3,5-5,1-6
+West,San Antonio,18,6,12,33.3,3-5,3-7
+West,Sacramento,6,2,4,33.3,1-3,1-1
+West,Sacramento,9,3,6,33.3,1-3,2-3
+West,San Antonio,27,9,18,33.3,5-10,4-8
+West,San Antonio,30,10,20,33.3,5-12,5-8
+West,Dallas,3,1,2,33.3,1-0,0-2
+West,Houston,27,9,18,33.3,6-5,3-13
+West,LA Clippers,6,2,4,33.3,0-2,2-2
+West,Golden State,9,3,6,33.3,3-1,0-5
+West,L.A. Lakers,15,5,10,33.3,5-5,0-5
+West,San Antonio,31,10,21,32.3,5-12,5-9
+West,Houston,28,9,19,32.1,6-6,3-13
+West,San Antonio,28,9,19,32.1,5-11,4-8
+West,San Antonio,19,6,13,31.6,3-6,3-7
+West,L.A. Lakers,16,5,11,31.3,5-5,0-6
+West,San Antonio,29,9,20,31.0,5-12,4-8
+West,Houston,29,9,20,31.0,6-7,3-13
+West,San Antonio,26,8,18,30.8,4-10,4-8
+West,Houston,26,8,18,30.8,5-5,3-13
+West,Houston,30,9,21,30.0,6-8,3-13
+West,Golden State,10,3,7,30.0,3-1,0-6
+West,San Antonio,20,6,14,30.0,3-7,3-7
+West,Houston,24,7,17,29.2,4-5,3-12
+West,Houston,31,9,22,29.0,6-9,3-13
+West,L.A. Lakers,7,2,5,28.6,2-2,0-3
+West,L.A. Lakers,14,4,10,28.6,4-5,0-5
+West,San Antonio,21,6,15,28.6,3-8,3-7
+West,Sacramento,7,2,5,28.6,1-3,1-2
+West,Houston,25,7,18,28.0,4-5,3-13
+West,San Antonio,25,7,18,28.0,4-10,3-8
+West,Houston,22,6,16,27.3,3-5,3-11
+West,San Antonio,22,6,16,27.3,3-8,3-8
+West,Houston,19,5,14,26.3,3-5,2-9
+West,Houston,23,6,17,26.1,3-5,3-12
+West,San Antonio,23,6,17,26.1,3-9,3-8
+West,L.A. Lakers,8,2,6,25.0,2-3,0-3
+West,San Antonio,24,6,18,25.0,3-10,3-8
+West,Oklahoma City,4,1,3,25.0,1-1,0-2
+West,Houston,4,1,3,25.0,1-1,0-2
+West,Houston,20,5,15,25.0,3-5,2-10
+West,Houston,21,5,16,23.8,3-5,2-11
+West,L.A. Lakers,13,3,10,23.1,3-5,0-5
+West,Houston,18,4,14,22.2,2-5,2-9
+West,L.A. Lakers,9,2,7,22.2,2-4,0-3
+West,Sacramento,5,1,4,20.0,1-3,0-1
+West,L.A. Lakers,10,2,8,20.0,2-4,0-4
+West,Houston,5,1,4,20.0,1-1,0-3
+West,Houston,15,3,12,20.0,1-3,2-9
+West,Houston,16,3,13,18.8,1-4,2-9
+West,L.A. Lakers,11,2,9,18.2,2-4,0-5
+West,Houston,11,2,9,18.2,1-2,1-7
+West,Houston,17,3,14,17.6,1-5,2-9
+West,Houston,12,2,10,16.7,1-2,1-8
+West,L.A. Lakers,12,2,10,16.7,2-5,0-5
+West,Houston,6,1,5,16.7,1-1,0-4
+West,L.A. Lakers,6,1,5,16.7,1-2,0-3
+West,Houston,13,2,11,15.4,1-2,1-9
+West,Houston,7,1,6,14.3,1-1,0-5
+West,Houston,14,2,12,14.3,1-3,1-9
+West,Houston,8,1,7,12.5,1-1,0-6
+West,Houston,9,1,8,11.1,1-2,0-6
+West,Houston,10,1,9,10.0,1-2,0-7
+West,Sacramento,3,0,3,0.0,0-2,0-1
+West,Oklahoma City,3,0,3,0.0,0-1,0-2
+West,Oklahoma City,2,0,2,0.0,0-0,0-2
+West,L.A. Lakers,3,0,3,0.0,0-2,0-1
+West,Memphis,0,0,0,0.0,0-0,0-0
+West,Denver,0,0,0,0.0,0-0,0-0
+West,Minnesota,0,0,0,0.0,0-0,0-0
+West,New Orleans,0,0,0,0.0,0-0,0-0
+West,Oklahoma City,0,0,0,0.0,0-0,0-0
+West,Phoenix,0,0,0,0.0,0-0,0-0
+West,Dallas,0,0,0,0.0,0-0,0-0
+West,Denver,1,0,1,0.0,0-0,0-1
+West,L.A. Lakers,5,0,5,0.0,0-2,0-3
+West,L.A. Lakers,2,0,2,0.0,0-1,0-1
+West,Oklahoma City,1,0,1,0.0,0-0,0-1
+West,Sacramento,0,0,0,0.0,0-0,0-0
+West,Houston,0,0,0,0.0,0-0,0-0
+West,Utah,0,0,0,0.0,0-0,0-0
+West,Houston,2,0,2,0.0,0-1,0-1
+West,LA Clippers,0,0,0,0.0,0-0,0-0
+West,San Antonio,1,0,1,0.0,0-1,0-0
+West,Houston,1,0,1,0.0,0-0,0-1
+West,Sacramento,2,0,2,0.0,0-2,0-0
+West,Dallas,1,0,1,0.0,0-0,0-1
+West,Sacramento,1,0,1,0.0,0-1,0-0
+West,L.A. Lakers,1,0,1,0.0,0-0,0-1
+West,San Antonio,0,0,0,0.0,0-0,0-0
+West,L.A. Lakers,4,0,4,0.0,0-2,0-2
+West,Houston,3,0,3,0.0,0-1,0-2
+West,Sacramento,4,0,4,0.0,0-3,0-1
+West,Portland,0,0,0,0.0,0-0,0-0
